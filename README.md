@@ -5,6 +5,7 @@ It is based on a web-socket and runs locally on port `3000`.
 
 <br>
 Node dependencies:
+
 - express
 - socket.io
 
